@@ -27,6 +27,8 @@ Como persona que no lleva un control financiero constante, quiero registrar y vi
 - El sistema debe permitir registrar un gasto en menos de 10 segundos.
 - El sistema debe mostrar alertas cuando el usuario esté cerca de alcanzar su presupuesto.
 - El sistema debe enviar recordatorios automáticos antes del vencimiento de facturas.
+- El sistema debe conservar la información aunque el usuario cierre la aplicación.
+
 
 ### Requisitos Funcionales
 - RF-01: El sistema debe permitir el registro manual de gastos indicando monto y categoría.
