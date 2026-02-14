@@ -1,4 +1,4 @@
-# Mi Bitácora de Arquitectura
+# Taller de Arquitectura
 
 ## Sección A: Evidencia de Campo (Discovery)
 
@@ -11,12 +11,30 @@ Una de las respuestas más representativas fue:
 ### Resultados de la Sonda
 Se realizaron 12 encuestas a diferentes personas.
 
-El 50% de los encuestados indicó que pierde más control en la gestión de su dinero, manifestando problemas como:
+El 50% de los encuestados indicó que pierde más control en la gestión de su dinero, comunicando problemas como:
 - Olvidar pagar facturas.
 - No saber en qué se gastó el dinero del mes.
 - Acumulación de pequeños gastos que terminan en una deuda alta.
 
 Formulario utilizado: [https://docs.google.com/forms/d/e/1FAIpQLScB7vBtzbttnBxqdiKRZRzgVlut6g2-7djJTG1ObuoGLqTG_Q/viewform?usp=publish-editor]
+
+#### Resultados visuales de la encuesta
+
+**Pregunta 1: Área donde se pierde más control**
+![Resultados primera pregunta](imagenes/Resultados_primera_pregunta.png)
+
+**Pregunta 2: Descripción del problema**
+![Resultados segunda pregunta](imagenes/Resultados_segunda_pregunta.png)
+
+![Resultados segunda pregunta 2](imagenes/Resultados_segunda_pregunta_dos.png)
+
+**Pregunta 3: Frecuencia del problema**
+![Resultados tercera pregunta](imagenes/Resultados_tercera_pregunta.png)
+
+**Pregunta 4: Solución esperada**
+![Resultados cuarta pregunta](imagenes/Resultados_cuarta_pregunta.png)
+
+![Resultados cuarta pregunta 2](imagenes/Resultados_cuarta_pregunta_dos.png)
 
 ## Sección B: Definición de Requisitos (Definition)
 
