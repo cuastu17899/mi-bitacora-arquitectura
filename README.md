@@ -36,6 +36,16 @@ Formulario utilizado: [https://docs.google.com/forms/d/e/1FAIpQLScB7vBtzbttnBxqd
 
 ![Resultados cuarta pregunta 2](imagenes/Resultados_cuarta_pregunta_dos.png)
 
+## Evidencia Técnica: Git Graph
+
+El siguiente diagrama representa el historial de commits y el uso de ramas durante el desarrollo del proyecto.
+
+![Git Graph del proyecto](imagenes/git_graph.png)
+
+
+
+
+
 ## Sección B: Definición de Requisitos (Definition)
 
 ### Historia de Usuario
